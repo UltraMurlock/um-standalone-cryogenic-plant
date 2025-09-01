@@ -11,7 +11,7 @@ data:extend {
         recipe = "cryogenic-plant"
       }
     },
-    prerequisites = {"refined-concrete", "production-science-pack", "utility-science-pack"},
+    prerequisites = {"concrete", "production-science-pack", "utility-science-pack"},
     unit =
     {
       ingredients =

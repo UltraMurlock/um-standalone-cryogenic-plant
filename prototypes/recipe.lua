@@ -7,9 +7,9 @@ data:extend {
     ingredients =
     {
       {type = "item", name = "refined-concrete", amount = 40},
-      {type = "item", name = "low-density-structure", amount = 20},
+      {type = "item", name = "uranium-238", amount = 50},
       {type = "item", name = "processing-unit", amount = 20},
-      {type = "item", name = "steel-plate", amount = 20},
+      {type = "item", name = "steel-plate", amount = 40},
     },
     results = {{type="item", name="cryogenic-plant", amount=1}},
     enabled = false,
