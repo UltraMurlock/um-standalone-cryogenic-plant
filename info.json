@@ -1,10 +1,14 @@
 {
   "name": "um-standalone-cryogenic-plant",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "UltraMurlock",
   "title": "Standalone Cryogenic Plant",
   "description": "Add space age cryogenic plant as standalone.",
-  "dependencies": ["!space-age", "um-standalone-space-age-lib"],
+  "dependencies": [
+    "!space-age",
+    "um-standalone-space-age-lib >= 1.0.3",
+    "?space-exploration"
+  ],
   "factorio_version": "2.0",
   "freezing_required": true
 }
