@@ -1,7 +1,6 @@
 require ("util")
 
 local sounds = require("__base__.prototypes.entity.sounds")
-local space_age_sounds = require("__um-standalone-electromagnetic-plant__.prototypes.entity.sounds")
 local hit_effects = require("__base__.prototypes.entity.hit-effects")
 
 data:extend {
