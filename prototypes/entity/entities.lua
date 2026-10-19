@@ -27,7 +27,7 @@ data:extend({
 		},
 		icon_draw_specification = { scale = 2, shift = { 0, -0.3 } },
 		allowed_effects = { "consumption", "speed", "productivity", "pollution", "quality" },
-		crafting_categories = { "cryogenics", "chemistry-or-cryogenics", "cryogenics-or-assembling" },
+		crafting_categories = { "cryogenics" },
 		crafting_speed = 2,
 		energy_source = {
 			type = "electric",

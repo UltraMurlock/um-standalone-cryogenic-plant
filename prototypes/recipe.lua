@@ -2,7 +2,7 @@ data:extend({
 	{
 		type = "recipe",
 		name = "cryogenic-plant",
-		categories = { "cryogenics-or-assembling" },
+		categories = { "cryogenics", "crafting" },
 		energy_required = 10,
 		ingredients = {
 			{ type = "item", name = "refined-concrete", amount = 40 },
